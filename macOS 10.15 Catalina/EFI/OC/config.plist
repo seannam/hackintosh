@@ -642,15 +642,15 @@
 		<key>Generic</key>
 		<dict>
 			<key>MLB</key>
-			<string>C02728600J9H69FAD</string>
+			<string>C02834270QXJ0PGFB</string>
 			<key>ROM</key>
 			<data>ESIzAAAA</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
-			<string>iMac18,1</string>
+			<string>iMac18,3</string>
 			<key>SystemSerialNumber</key>
-			<string>C02V2NYMH7JY</string>
+			<string>C02X89YBJ1GJ</string>
 			<key>SystemUUID</key>
 			<string>35191523-491F-49D8-822E-B22258EE806F</string>
 		</dict>
