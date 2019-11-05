@@ -516,7 +516,7 @@
 			<key>Resolution</key>
 			<string></string>
 			<key>ShowPicker</key>
-			<false/>
+			<true/>
 			<key>Timeout</key>
 			<integer>5</integer>
 			<key>UsePicker</key>
@@ -561,6 +561,18 @@
 				<true/>
 				<key>Path</key>
 				<string>Shell.efi</string>
+			</dict>
+			<dict>
+				<key>Arguments</key>
+				<string></string>
+				<key>Name</key>
+				<string>acpidump</string>
+				<key>Comment</key>
+				<string>Finding system DSDT</string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>acpidump.efi</string>
 			</dict>
 			<dict>
 				<key>Arguments</key>
