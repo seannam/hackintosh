@@ -20,7 +20,7 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Path</key>
-				<string>SSDT_EC_USBX.aml</string>
+				<string>SSDT_EC.aml</string>
 			</dict>
 		</array>
 		<key>Block</key>
@@ -62,7 +62,7 @@
 				<key>Count</key>
 				<integer>0</integer>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>Find</key>
 				<data>RUNfXw==</data>
 				<key>Limit</key>
