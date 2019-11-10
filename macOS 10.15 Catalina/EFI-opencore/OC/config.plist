@@ -20,7 +20,7 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Path</key>
-				<string>SSDT_EC.aml</string>
+				<string>SSDT-EC-USBX.aml</string>
 			</dict>
 		</array>
 		<key>Block</key>
@@ -570,7 +570,7 @@
 				<key>Comment</key>
 				<string>Finding system DSDT</string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>Path</key>
 				<string>acpidump.efi</string>
 			</dict>
@@ -621,7 +621,7 @@
 				<key>nvda_drv</key>
 				<data></data>
 				<key>prev-lang:kbd</key>
-				<data>cnUtUlU6MjUy</data>
+				<data></data>
 			</dict>
 		</dict>
 		<key>Block</key>
